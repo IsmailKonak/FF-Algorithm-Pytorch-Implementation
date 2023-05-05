@@ -1,4 +1,4 @@
-# The Forward-Forward Algorithm proposed by Geoffrey Hinton - Pytorch Implemetation (Unofficial)
+# The Forward-Forward Algorithm proposed by Geoffrey Hinton - Unofficial Pytorch Implementation
 
 ## What is Forward Forward Algorithm?
 
@@ -11,7 +11,11 @@ Investigations](https://www.cs.toronto.edu/~hinton/FFA13.pdf)
 
 ## Implementation
 
-I have implemented the Forward-Forward algorithm for PyTorch, while attempting to stay faithful to the details outlined in the research paper.
+I have implemented the Forward-Forward algorithm for PyTorch, while attempting to stay faithful to the details outlined in the research paper. If you encounter any discrepancy or issue, please do not hesitate to contact me.
+
+
+
+
 
 <br>
 
