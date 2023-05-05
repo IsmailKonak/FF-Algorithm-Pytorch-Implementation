@@ -42,4 +42,4 @@ Layers used as input for the linear classifier = 1,2,3,4 (0 is the input layer w
 
 ---
 
-![loss_plot](https://github.com/IsmailKonak/FF-Algorithm-Pytorch-Implementation/blob/main/FF%20-%20Unsupervised/loss_plot.png)
+![loss_plot](https://github.com/IsmailKonak/FF-Algorithm-Pytorch-Implementation/blob/main/FF%20-%20Unsupervised/MLP/loss_plot.png)
