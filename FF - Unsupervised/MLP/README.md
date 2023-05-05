@@ -1,12 +1,12 @@
-# FF - Unsupervised
+# FF - CNN
 
 ## Dataset
 
 **Dataset** = MNIST
 
-Train Sample Num = 60 000
+**Train Sample Num** = 60 000
 
-Test Sample Num = 10 000
+**Test Sample Num** = 10 000
 
 <br>
 
@@ -14,31 +14,51 @@ Test Sample Num = 10 000
 
 **Batch Size** = 1024
 
-**Learning Rate - FF** = 0.03
+**Optimizer** = Adam
+
+**Learning Rate** **- FF** = 0.03
 
 **Learning Rate - LC** = 0.05
 
-**Epochs** = 100
+**Epochs** = 50
 
-**Threshold** = 3.0
+**Threshold** = 2.0
 
 Layers used as input for the linear classifier = 1,2,3,4 (0 is the input layer which is not included)
 
-<br>
-
-## Training information
-
-**FF - Train time** = 4 min 50 s
-
-**LC - Train time** = 7 min 17 s
-
-**Train Loss** = 0.0703 ( %7 )
-
-**Test Loss**  =  0.197 ( %20 )
 
 <br>
 
-## Plot
+## Architecture:
+
+Linear Layer : 784 neurons (input layer)
+
+Linear Layer : 500 neurons
+
+Linear Layer : 500 neurons
+
+Linear Layer : 500 neurons
+
+Linear Layer : 500 neurons
+
+<br>
+
+## Training info
+
+**FF - Train time** = 0 min 47 s
+
+**LC - Train time** = 6 min 35 s
+
+**Train Loss** = 0.087 ( %8.7 )
+
+**Test Loss**  =  0.0209 ( %20.9 )
+
+<br>
+
+## Device
+**GPU**: GeForce RTX™ 3050 (Laptop)
+
+## Plots
 
 ---
 
