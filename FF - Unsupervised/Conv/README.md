@@ -40,9 +40,9 @@ Convolutional Layer (in_channels=220, out_channels=512, kernel_size=2)
 
 ## Training info
 
-**FF - Train time** = 3 min 0 s
+**FF - Train time** = 1 min 2 s
 
-**LC - Train time** = 8 min 56 s
+**LC - Train time** = 4 min 11 s
 
 **Train Loss** = 0.029 ( %2.9 )
 
@@ -53,6 +53,9 @@ Convolutional Layer (in_channels=220, out_channels=512, kernel_size=2)
 **Test Accuracy**  =  0.994 ( %99.4 )
 
 <br>
+
+## Device
+**GPU**: GeForce RTX™ 3050 (Laptop)
 
 ## Plots
 
