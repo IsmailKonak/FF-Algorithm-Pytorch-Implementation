@@ -23,7 +23,7 @@ I have implemented the Forward-Forward algorithm for PyTorch, while attempting t
 
 - [x] Forward Forward Algorithm - Unsupervised
 - [ ] Forward Forward Algorithm - Supervised
-- [ ] Forward Forward Algorithm CNN - Unsupervised
+- [x] Forward Forward Algorithm CNN - Unsupervised
 - [ ] Forward Forward Algorithm -Unsupervised (not layerwise training)
 - [ ] Forward Forward MLP - Supervised (not layerwise training)
 
