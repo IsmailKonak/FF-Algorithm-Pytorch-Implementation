@@ -42,4 +42,4 @@ Layers used as input for the linear classifier = 1,2,3,4 (0 is the input layer w
 
 ---
 
-![loss_plot](/Untitled.png)
+![loss_plot](/loss_plot.png)
