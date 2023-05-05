@@ -58,4 +58,4 @@ Convolutional Layer (in_channels=220, out_channels=512, kernel_size=2)
 
 ---
 
-![Untitled](FF%20-%20CNN%20323b756155c74ffea7db340dc9f6cc1e/Untitled.png)
+![Untitled](https://github.com/IsmailKonak/FF-Algorithm-Pytorch-Implementation/blob/main/FF%20-%20Unsupervised/Conv/Untitled.png)
