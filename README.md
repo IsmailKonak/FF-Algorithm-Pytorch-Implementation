@@ -21,9 +21,9 @@ I have implemented the Forward-Forward algorithm for PyTorch, while attempting t
 
 ## To Do
 
-- [x] Forward Forward Algorithm - Unsupervised
+- [x] [Forward Forward Algorithm - Unsupervised](https://github.com/IsmailKonak/FF-Algorithm-Pytorch-Implementation/tree/main/FF%20-%20Unsupervised/MLP)
 - [ ] Forward Forward Algorithm - Supervised
-- [x] Forward Forward Algorithm CNN - Unsupervised
+- [x] [Forward Forward Algorithm CNN - Unsupervised](https://github.com/IsmailKonak/FF-Algorithm-Pytorch-Implementation/tree/main/FF%20-%20Unsupervised/Conv)
 - [ ] Forward Forward Algorithm -Unsupervised (not layerwise training)
 - [ ] Forward Forward MLP - Supervised (not layerwise training)
 
